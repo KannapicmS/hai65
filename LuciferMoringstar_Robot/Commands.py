@@ -84,7 +84,8 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        'Developers', url="https://t.me/sasi7654"
+                        InlineKeyboardButton("📢 Join Updates Channel 📢", url=invite_link.invite_link)
+                    ]
                  
                     ]
                 await bot.send_cached_media(
@@ -103,7 +104,7 @@ async def start(bot, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("📢 Join Updates Channel 📢", url=invite_link.invite_link)
+                        InlineKeyboardButton("📢 CREATOR'S 📢", url=invite_link.invite_link)
                     ]
                 ]
             )
