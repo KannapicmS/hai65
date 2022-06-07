@@ -13,7 +13,7 @@ from .Channel import (
 HELP = """
 Basic Commads
 
-/start :- check am Alive
+/start :- ജീവൻ ഉണ്ടൊന്ന് അറിയാൻ
 
 Bot Owner Only
 /broadcast Replay Any Message or Media
@@ -28,14 +28,7 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  രവി പത്മനാഭൻ 2.0
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
-
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ കൂടുതൽ ഒന്നും ആരും അറിയുന്നെ എനിക്ക് ഇഷ്ടമല്ല
 """
